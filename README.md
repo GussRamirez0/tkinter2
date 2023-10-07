@@ -1,2 +1,0 @@
-# tkinter2
-Calculadoras
